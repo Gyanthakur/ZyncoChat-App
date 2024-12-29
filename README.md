@@ -155,7 +155,7 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="[screenshots/6_chatting_area.png](https://github.com/user-attachments/assets/95a1c2fe-6378-4280-8178-dc1f048ba2ac)" alt="Message Seen Status" width="400"/>
+      <img src="https://github.com/user-attachments/assets/95a1c2fe-6378-4280-8178-dc1f048ba2ac" alt="Message Seen Status" width="400"/>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/83a4b711-97ce-4a1a-87e7-87955c3895e2" alt="Personalized Chatbot" width="400"/>
