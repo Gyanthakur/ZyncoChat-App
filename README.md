@@ -95,10 +95,10 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/be6f8d78-4afc-44d0-bf93-d9641e584842" alt="Dark and Light Mode" width="400"/>
+      <img src="screenshots/1_home.png" alt="Dark and Light Mode" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/f5a8b2e0-4fb0-4e43-801a-9e7e031efafb" alt="Authentication" width="400"/>
+      <img src="screenshots/2_login_signup.png" alt="Authentication" width="400"/>
     </td>
   </tr>
   <tr>
@@ -107,10 +107,10 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/e09f0518-81d1-47d5-a407-6096e660d0bc" alt="Responsive Dashboard" width="400"/>
+      <img src="screenshots/3_dashboard.png" alt="Responsive Dashboard" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/2968330e-56dd-47f5-9479-e010d8ca0fb2" alt="New Chat" width="400"/>
+      <img src="screenshots/4_newchat.png" alt="New Chat" width="400"/>
     </td>
   </tr>
   <tr>
@@ -119,10 +119,10 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/69defc5e-8af1-4846-8cbb-7fce58d91c5f" alt="Smooth Searching" width="400"/>
+      <img src="screenshots/5_searching.png" alt="Smooth Searching" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/9e28f255-ae60-44e7-abd2-ba51360e8e1a" alt="Chatting Area" width="400"/>
+      <img src="screenshots/6_chatting_area.png" alt="Chatting Area" width="400"/>
     </td>
   </tr>
   <tr>
@@ -131,10 +131,10 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/4913395d-4f29-4c36-9bf7-7c114c15a1a1" alt="New Message Notification" width="400"/>
+      <img src="screenshots/new_message.png" alt="New Message Notification" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/71bb6f8e-0b18-43a4-9e06-9f33de8c9791" alt="Typing Animation" width="400"/>
+      <img src="screenshots/typing_animation.png" alt="Typing Animation" width="400"/>
     </td>
   </tr>
   <tr>
@@ -143,10 +143,10 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f4a365c7-92a8-4102-8113-76cb7793196f" alt="Message Management" width="400"/>
+      <img src="screenshots/8_delete_message.png" alt="Message Management" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/95a1c2fe-6378-4280-8178-dc1f048ba2ac" alt="Active Now Status" width="400"/>
+      <img src="screenshots/6_chatting_area.png" alt="Active Now Status" width="400"/>
     </td>
   </tr>
   <tr>
@@ -155,15 +155,27 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/95a1c2fe-6378-4280-8178-dc1f048ba2ac" alt="Message Seen Status" width="400"/>
+      <img src="screenshots/6_chatting_area.png" alt="Message Seen Status" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/83a4b711-97ce-4a1a-87e7-87955c3895e2" alt="Personalized Chatbot" width="400"/>
+      <img src="screenshots/personal_chatbot.png" alt="Personalized Chatbot" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center">Message Seen Status</td>
     <td align="center">Personalized Chatbot</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/7_send_photo.png" alt="Image Messages" width="400"/>
+    </td>
+    <td>
+      <img src="screenshots/9_login_otp.png" alt="Login using OTP" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Image Messages</td>
+    <td align="center">Login using OTP</td>
   </tr>
 </table>
 
