@@ -1,4 +1,12 @@
 
+<div align="center">
+
+ ![zchat-logo](https://github.com/user-attachments/assets/8b958b67-1389-49ed-92c7-7c5c43c7dfa7)
+
+</div>
+
+
+
 <div align="left" style="position: relative;">
   
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
@@ -7,7 +15,7 @@
     <em>Connect, Code, Converse - Anywhere, Anytime with MERN Chat App!</em>
     <p>A full-stack MERN (MongoDB, Express.js, React.js, Node.js, Socket.IO) online chatting application 💬 with friends additionally with a Personal Chatbot. 🤖</p>
   </div>
-  <div>
+  <div align="center">
     <img src="https://github.com/user-attachments/assets/9e8677c7-ce79-4a95-9ea7-2bd0f335a860" width="30%" alt="ZyncoChat Banner">
   </div>
 </div>
