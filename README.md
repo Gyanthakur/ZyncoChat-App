@@ -95,7 +95,7 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
 <table>
   <tr>
     <td>
-      <img src="screenshots/1_home.png" alt="Dark and Light Mode" width="400"/>
+      <img src="[screenshots/1_home.png](https://github.com/user-attachments/assets/3f24f7a8-1372-4e43-af87-1b25381b730c)" alt="Dark and Light Mode" width="400"/>
     </td>
     <td>
       <img src="screenshots/2_login_signup.png" alt="Authentication" width="400"/>
