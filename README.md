@@ -4,9 +4,7 @@
  ![zchat-logo](https://github.com/user-attachments/assets/8b958b67-1389-49ed-92c7-7c5c43c7dfa7)
 
 </div>
- <div align="center">
-    <img src="https://github.com/user-attachments/assets/9e8677c7-ce79-4a95-9ea7-2bd0f335a860" width="30%" alt="ZyncoChat Banner">
-  </div>
+
 
 
 <div align="left" style="position: relative;">
